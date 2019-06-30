@@ -2,7 +2,7 @@
 
 ## Sensors used in a autonomus car
 
-1. ACC: Adaptive Cruise Control
+###### 1. ACC: Adaptive Cruise Control
 
 A cruise control system for vehicles which controls longitudinal speed. ACC can maintain a desired reference speed or adjust its speed accordingly to maintain safe driving distances to other vehicles.
 
